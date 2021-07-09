@@ -1,0 +1,16 @@
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.exe
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.deps.json
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.runtimeconfig.json
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.runtimeconfig.dev.json
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.dll
+D:\Programming\C#\Exception1\bin\Debug\net5.0\ref\Exception1.dll
+D:\Programming\C#\Exception1\bin\Debug\net5.0\Exception1.pdb
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.csprojAssemblyReference.cache
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.AssemblyInfoInputs.cache
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.AssemblyInfo.cs
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.dll
+D:\Programming\C#\Exception1\obj\Debug\net5.0\ref\Exception1.dll
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.pdb
+D:\Programming\C#\Exception1\obj\Debug\net5.0\Exception1.genruntimeconfig.cache
